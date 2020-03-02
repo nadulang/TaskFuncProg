@@ -1,0 +1,11 @@
+/Users/gigaming/project bulan 2/TaskFuncProg/bin/Debug/netcoreapp3.1/TaskFuncProg
+/Users/gigaming/project bulan 2/TaskFuncProg/bin/Debug/netcoreapp3.1/TaskFuncProg.deps.json
+/Users/gigaming/project bulan 2/TaskFuncProg/bin/Debug/netcoreapp3.1/TaskFuncProg.runtimeconfig.json
+/Users/gigaming/project bulan 2/TaskFuncProg/bin/Debug/netcoreapp3.1/TaskFuncProg.runtimeconfig.dev.json
+/Users/gigaming/project bulan 2/TaskFuncProg/bin/Debug/netcoreapp3.1/TaskFuncProg.dll
+/Users/gigaming/project bulan 2/TaskFuncProg/bin/Debug/netcoreapp3.1/TaskFuncProg.pdb
+/Users/gigaming/project bulan 2/TaskFuncProg/obj/Debug/netcoreapp3.1/TaskFuncProg.csprojAssemblyReference.cache
+/Users/gigaming/project bulan 2/TaskFuncProg/obj/Debug/netcoreapp3.1/TaskFuncProg.AssemblyInfoInputs.cache
+/Users/gigaming/project bulan 2/TaskFuncProg/obj/Debug/netcoreapp3.1/TaskFuncProg.AssemblyInfo.cs
+/Users/gigaming/project bulan 2/TaskFuncProg/obj/Debug/netcoreapp3.1/TaskFuncProg.dll
+/Users/gigaming/project bulan 2/TaskFuncProg/obj/Debug/netcoreapp3.1/TaskFuncProg.pdb
