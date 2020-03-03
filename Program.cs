@@ -31,14 +31,14 @@ namespace TaskFuncProg
             // var tulisanPanjang1 = "ini adalah tulisan yang sangat panjang".TrimWords(3);
             // Console.WriteLine(tulisanPanjang1);
 
-            // var satu = 1.Convert();
-            // Console.WriteLine(satu);
-            // var belasan = 15.Convert();
-            // Console.WriteLine(belasan);
-            // var puluhan = 10.Convert();
-            // Console.WriteLine(puluhan);
-            // var t = 99.Convert();
-            // Console.WriteLine(t);
+            var satu = 1.Convert();
+            Console.WriteLine(satu);
+            var belasan = 15.Convert();
+            Console.WriteLine(belasan);
+            var puluhan = 10.Convert();
+            Console.WriteLine(puluhan);
+            var t = 99.Convert();
+            Console.WriteLine(t);
         }
     }
 
@@ -77,11 +77,10 @@ namespace TaskFuncProg
             string u = "";
             List<string> satuan = new List<string> {"nol", "satu", "dua", "tiga", "empat", "lima", "enam", "tujuh", "delapan", "sembilan"};
             List<string> belasan = new List<string> {"nol", "se", "dua", "tiga", "empat", "lima", "enam", "tujuh", "delapan", "sembilan"};
-            List<string> puluhan = new List<string> {"nol", "satu", "dua", "tiga", "empat", "lima", "enam", "tujuh", "delapan", "sembilan"};
 
             if (number > 20 && number < 100)
             {
-                u += puluhan[number/10] + " " + "puluh" + " " + puluhan[number%10];
+                u += satuan[number/10] + " " + "puluh" + " " + satuan[number%10];
             }
 
             else if (number%10 == 0)
